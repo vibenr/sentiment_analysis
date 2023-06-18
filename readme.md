@@ -1,0 +1,3 @@
+- this project is build to learn data analysis using python. 
+- Dataset: Amazon Reveiews 
+- Aim: Sentiment Analysis
